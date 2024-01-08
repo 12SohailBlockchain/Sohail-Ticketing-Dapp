@@ -64,7 +64,7 @@ To purchase a ticket, we click on "Buy Now" and after a successful purchase, you
 
 Also, client can mint ticket qr code as NFT by clicking on the "Mint Ticket NFT" button.
 NFT view on the CELO explorer:
-![celo explorer](https://i.ibb.co/mXkzbDk/Screenshot-from-2023-06-22-16-46-12.png)
+![celo explorer](https://mumbai.polygonscan.com/address/0x566e243f0a9998a1d5babfa831e154d34a37f56b)
 
 Client can watch ticket QR code by clicking on the "Watch QR code" button.
 ![Ticket QR_code](https://i.ibb.co/zFBX5H3/Screenshot-from-2023-06-22-18-34-05.png)
