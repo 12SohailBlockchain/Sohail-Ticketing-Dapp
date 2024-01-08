@@ -62,9 +62,9 @@ After clicking on any listed event we are redirected to the event details page. 
 To purchase a ticket, we click on "Buy Now" and after a successful purchase, you'll be redirected to my tickets page where all tickets that the current user owns are displayed
 ![My Image3](https://i.ibb.co/xJsq2gP/Screenshot-from-2023-06-22-16-13-58.png)
 
-Also, client can mint ticket qr code as NFT by clicking on the "Mint Ticket NFT" button.
-NFT view on the CELO explorer:
-![celo explorer](https://mumbai.polygonscan.com/address/0x566e243f0a9998a1d5babfa831e154d34a37f56b)
+Also, the client can mint ticket qr code as NFT by clicking on the "Mint Ticket NFT" button.
+NFT view on the polygonscan explorer:
+![polygonscan explorer](https://mumbai.polygonscan.com/address/0x566e243f0a9998a1d5babfa831e154d34a37f56b)
 
 Client can watch ticket QR code by clicking on the "Watch QR code" button.
 ![Ticket QR_code](https://i.ibb.co/zFBX5H3/Screenshot-from-2023-06-22-18-34-05.png)
