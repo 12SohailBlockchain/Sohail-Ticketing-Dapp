@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 
 /** @title NFT contract to deal with NFT tickets */
-contract TicketNFT is ERC721, ERC721URIStorage, Ownable {
+contract TicketNFT is ERC721, ERC721URIStorage {
     // nft's counter
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
@@ -58,9 +58,9 @@ contract TicketNFT is ERC721, ERC721URIStorage, Ownable {
 
     // The following functions are overrides required by Solidity.
 
-    function _burn(uint256 tokenId) internal override(ERC721, ERC721URIStorage) {
-        super._burn(tokenId);
-    }
+    // function _burn(uint256 tokenId) internal override(ERC721, ERC721URIStorage) {
+    //     super._burn(tokenId);
+    // }
 
     function tokenURI(uint256 tokenId) public view override(ERC721, ERC721URIStorage) returns (string memory) {
         return super.tokenURI(tokenId);

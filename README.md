@@ -12,7 +12,7 @@ In addition, Yob integrates with Celo Explore, allowing users to view the minted
 The purpose of this Yob is to provide a platform for the sale and purchase of event tickets, Users can purchase tickets for events through the smart contract and their purchases will be recorded and tracked.
 
 ### Click on the link below for live demo
-[Live Youtube demo](https://youtu.be/_IWWrk6qNbc)
+[Live Youtube demo]
 
 ## Tech Stack
 This Dapp uses the following tech stack:
@@ -27,13 +27,13 @@ This Dapp uses the following tech stack:
 ## Prerequisite
 1. Install the **Coinbase wallet**
 2. Create a wallet.
-3. Get some [Celo Faucet](https://faucet.celo.org/alfajores) and get tokens for the alfajores testnet.
+
 
 ## Getting Started
 
 First, Clone the repo:
 ```bash 
-git ccone https://github.com/Muhindo-Galien/Yob-Ticketing-dapp
+git "Sohail Githup"
 ```
 
 Then,run the development server:

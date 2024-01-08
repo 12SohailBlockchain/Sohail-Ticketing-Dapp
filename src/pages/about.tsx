@@ -10,11 +10,11 @@ const About = () => {
         <h2 className='font-semibold text-2xl'>About the App</h2>
         <div className='py-4'>
           <h2 className='text-sm text-white'>
-            <span className='font-black text-3xl mr-2'>Yob</span> a
+            <span className='font-black text-3xl mr-2'>YOB</span> a
             revolutionary ticket booking Dapp that leverages blockchain
             technology to offer secure, fast, and decentralized transactions for
             online ticket bookings. By utilizing Non-Fungible Tokens (NFTs) with
-            auto-generated QR codes, Yob ensures the authenticity and uniqueness
+            auto-generated QR codes, YOB ensures the authenticity and uniqueness
             of each ticket.
           </h2>
         </div>
@@ -24,7 +24,7 @@ const About = () => {
               1
             </h1>
             <p>
-              With Yob, users can easily browse and explore a wide range of
+              With YOB, users can easily browse and explore a wide range of
               events and conveniently purchase tickets directly through the
               smart contract. All transactions are recorded on the blockchain,
               providing transparency and immutability. This eliminates the need
@@ -38,7 +38,7 @@ const About = () => {
             </h1>
             <p>
               Event organizers can effortlessly add event details such as ticket
-              prices and the number of available tickets. Yob empowers
+              prices and the number of available tickets. YOB empowers
               organizers with a user-friendly interface to manage their events,
               ensuring accurate tracking and efficient ticket distribution.
             </p>
@@ -48,16 +48,16 @@ const About = () => {
               3
             </h1>
             <p>
-              In addition, Yob integrates with Celo Explore, allowing users to
+              In addition, YOB integrates with polygonscan Explore, allowing users to
               view the minted NFT tickets and verify their authenticity. This
               further enhances trust and security in the ticketing ecosystem.
             </p>
           </div>
         </div>
         <div className='flex py-2 sm:py-4 justify-center items-center text-sm '>
-          <a href='https://www.linkedin.com/in/muhindo-galien/' target='_blank'>
+          <a href='https://www.linkedin.com/in/sohail-ahmed-b40b66215/' target='_blank'>
             <h2 className='flex items-center cursor-pointer'>
-              Developed by: Muhindo Galien{' '}
+              Developed by:Sohail Ahmed{' '}
               <AiFillLinkedin className='text-xl font-bold text-black' />
             </h2>
           </a>

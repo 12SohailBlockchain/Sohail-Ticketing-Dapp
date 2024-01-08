@@ -5,9 +5,9 @@ const Footer = () => {
   return (
     <div className='max-w-4xl mx-auto fotter_d pt-4 sm:mb-8 h-20 sm:h-0 text-white font-medium'> 
       <div className="mx-4 sm:mx-6 lg:mx-0  flex flex-col md:flex-row justify-center md:justify-between">
-          <h2 className='text-center sm:text-center'> &copy; {date} Yob  </h2>
+          <h2 className='text-center sm:text-center'> &copy; {date} Sohail  </h2>
           <a href="https://www.linkedin.com/in/muhindo-galien/" target='_blank'>
-            <h4 className='text-center cursor-pointer '>Designed By Galien_Dev </h4>
+            <h4 className='text-center cursor-pointer '>Sohail Ahmed _Dev </h4>
           </a>
       </div>
     </div>

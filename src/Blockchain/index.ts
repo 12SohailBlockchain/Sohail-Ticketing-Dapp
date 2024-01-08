@@ -19,8 +19,8 @@ import { createCanvas, loadImage } from 'canvas';
 import FormData from 'form-data';
 import toast from 'react-hot-toast';
 
-export const TicketNFTAddress = '0x9a6e5daeAcfdf268dA02300D65849525DFf17cdA';
-export const TicketingAddress = '0xcd3CfC5EA72265149dBd22f180a0d76d551E1687';
+export const TicketNFTAddress = '0xFF8546627Fc44c7e1B36cA162518D9C24525Ad9f';
+export const TicketingAddress = '0x566e243F0A9998a1D5BABFA831E154D34A37f56b';
 
 const getEtheriumContract = async (
   contractAddress: string,
