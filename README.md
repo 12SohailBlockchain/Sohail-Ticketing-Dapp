@@ -28,12 +28,17 @@ This Dapp uses the following tech stack:
 1. Install the **Coinbase wallet**
 2. Create a wallet.
 
+## Smart contract development
+1.TicketNFT(https://mumbai.polygonscan.com/address/0xff8546627fc44c7e1b36ca162518d9c24525ad9f#code)
+2.Ticketing(https://mumbai.polygonscan.com/address/0x566e243f0a9998a1d5babfa831e154d34a37f56b#code)
+3.Mumbai test network deploy and verify these smart contract
+
 
 ## Getting Started
 
 First, Clone the repo:
 ```bash 
-git "Sohail Githup"
+git "https://github.com/12SohailBlockchain/Sohail-Ticketing-Dapp.git"
 ```
 
 Then,run the development server:
